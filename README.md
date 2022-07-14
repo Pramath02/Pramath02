@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Pramath02
 - Coding Enthusiast from India
+- Studying in NMIT , Bangalore
 - ![AndroandBlock](https://user-images.githubusercontent.com/106475594/178996932-ece89711-25fe-4c30-a2d2-5715981983fd.png)
 - 👀 I’m interested in Android Development And Blockchain
 - 🌱 I’m currently learning Blockchain
