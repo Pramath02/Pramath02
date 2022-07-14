@@ -1,7 +1,7 @@
-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I’m @Pramath02
-- Coding Enthusiast from India
-- Studying in NMIT , Bangalore
-- ![AndroandBlock](https://user-images.githubusercontent.com/106475594/178996932-ece89711-25fe-4c30-a2d2-5715981983fd.png)
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I’m @Pramath02</h1>
+<h3 align="center"> Coding Enthusiast from India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="20px" height="20px"></h3>
+
+- 🏫 Studying in NMIT , Bangalore
 - 👀 I’m interested in Android Development And Blockchain
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Android apps
