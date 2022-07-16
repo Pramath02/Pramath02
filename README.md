@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> , I’m Pramath Srivastava</h1>
 <h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/3662/3662830.png" width="20px" height="20px"> Coding Enthusiast from India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="20px" height="20px"></h3>
 
-- 🏫 Studying in NMIT , Bangalore
+- 🏫 Studying in NMIT , Bangalore (Information Sciences)'25
 - 👀 I’m interested in Android Development And Blockchain
 - 🌱 I’m currently learning Blockchain
 - 💞️ I’m looking to collaborate on Android apps
