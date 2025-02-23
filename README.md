@@ -2,8 +2,8 @@
 <h3 align="center"><img src="https://cdn-icons-png.flaticon.com/512/3662/3662830.png" width="20px" height="20px"> Coding Enthusiast from India <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Animated-Flag-India.gif" width="20px" height="20px"></h3>
 
 - 🏫 Studying in NMIT , Bangalore (Information Sciences)'25
-- 👀 I’m interested in Android Development And Blockchain
-- 🌱 I’m currently learning Blockchain
+- 👀 I’m interested in Android Development And Machine Learning
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Android apps
 - 📫 How to reach me pramath49babaji@gmail.com
 
